@@ -3,3 +3,4 @@
 存储是异步存入mysql有需要自己更改吧pipeline注释打开就可以  
 里面配置存到elasticsearch中的方法分局需要自己改  
 可以运行scrapy crawlall运行全部爬虫把setting注释打开就可以  
+如果需要运行单个配置在main文件下把crawl后面的改成要运行的spider名
